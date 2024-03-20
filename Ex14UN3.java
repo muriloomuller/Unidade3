@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.text.DateFormat;
 import java.text.DecimalFormat;
 
 public class Ex14UN3 {
