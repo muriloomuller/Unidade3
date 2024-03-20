@@ -15,7 +15,7 @@ public class Ex02UN3 {
         System.out.println("O valor do desconto é " + desc );
         System.out.println("O valor do sapato com desconto é " + (valor - desc));
 
-
+        scan.close().
     }
     public static void main(String[] args) {
         new Ex02UN3();
